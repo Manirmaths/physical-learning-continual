@@ -50,7 +50,7 @@ LICENSE
 ## Quickstart
 
 ### 1) Create environment + install dependencies
-```bash
+
 python -m venv .venv
 # activate:
 # Windows PowerShell: .\.venv\Scripts\Activate.ps1
